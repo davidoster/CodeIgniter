@@ -1,3 +1,5 @@
+# !!! Version 3.0dev as of 11th July 2013 14:45 GMT+3 !!! #
+
 ###################
 What is CodeIgniter
 ###################
